@@ -28,7 +28,7 @@ const control = new FormControl(null);
 
 onSubmit() {
 
- console.log(this.profileForm);
+
 
 
 }
